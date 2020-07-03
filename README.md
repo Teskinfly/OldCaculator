@@ -11,7 +11,7 @@
 ![2.png](https://upload-images.jianshu.io/upload_images/21680686-11ec979d5d6f61cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 3. 按钮
 ![3.png](https://upload-images.jianshu.io/upload_images/21680686-258d795cce8c04ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-## 三， 总结
+## 四， 总结
 实现方面：本程序实现简单，没有涉及比较困难的算法。UI也是借助工具直接绘制而成的。
 缺点：功能简单，没有运算符的优先考虑，如当进行3+2*5的时候，它会先计算3+2=5，再进行5*5 = 25。当然这也是老式计算器的特点之一。
 ---
